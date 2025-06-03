@@ -2,7 +2,7 @@ import { link } from "framer-motion/client";
 import Chatify from "../assets/projects/Chatify.png";
 import Spotify from "../assets/projects/Spotify_Clone.png";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I'm a passionate MERN stack developer and recent graduate who loves building full-stack apps that solve real problems and deliver great user experiences. Skilled in React, Node.js, Express, MongoDB, and UI/UX design, I've created projects like a real-time chat app and an advanced Spotify clone. I'm eager to join a dynamic team—on-site or remote—and collaborate on impactful web solutions.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
